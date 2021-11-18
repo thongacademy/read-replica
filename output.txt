@@ -1,0 +1,6 @@
+ studentid | lastname | firstname | courseid 
+-----------+----------+-----------+----------
+         1 | Thong    | Stephan   | reh
+         2 | Bedi     | Sarah     | xve
+(2 rows)
+
